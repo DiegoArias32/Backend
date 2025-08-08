@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\web\\controllers\\implement\\horadisponiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|solutionrelative:web\\controllers\\implement\\horadisponiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\web\\controllers\\interfaces\\ihoradisponiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|solutionrelative:web\\controllers\\interfaces\\ihoradisponiblecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{433A7202-B77B-41E6-B9F1-154203AD368B}|Web\\Web.csproj|solutionrelative:web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F621F11B-9F7F-4025-AAF0-E46B0849DBF3}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F621F11B-9F7F-4025-AAF0-E46B0849DBF3}|Entity\\Entity.csproj|solutionrelative:entity\\contexts\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0439EAE-CA63-4771-A409-B1A72CC7983A}|Business\\Business.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\business\\implement\\citabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0439EAE-CA63-4771-A409-B1A72CC7983A}|Business\\Business.csproj|solutionrelative:business\\implement\\citabusiness.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F621F11B-9F7F-4025-AAF0-E46B0849DBF3}|Entity\\Entity.csproj|c:\\users\\user\\desktop\\pqr_agendamientodecitas\\backend\\entity\\dtos\\horadisponibledto\\horadisponibledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F621F11B-9F7F-4025-AAF0-E46B0849DBF3}|Entity\\Entity.csproj|solutionrelative:entity\\dtos\\horadisponibledto\\horadisponibledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 318,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Entity\\Contexts\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Entity\\Contexts\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAHEBAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:15:04.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HoraDisponibleDto.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Entity\\DTOs\\HoraDisponibleDto\\HoraDisponibleDto.cs",
+              "RelativeDocumentMoniker": "Entity\\DTOs\\HoraDisponibleDto\\HoraDisponibleDto.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Entity\\DTOs\\HoraDisponibleDto\\HoraDisponibleDto.cs",
+              "RelativeToolTip": "Entity\\DTOs\\HoraDisponibleDto\\HoraDisponibleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:13:40.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Program.cs",
+              "RelativeDocumentMoniker": "Web\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Program.cs",
+              "RelativeToolTip": "Web\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:36:45.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 82,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HoraDisponibleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Controllers\\Implement\\HoraDisponibleController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Implement\\HoraDisponibleController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Controllers\\Implement\\HoraDisponibleController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Implement\\HoraDisponibleController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwF8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:34:38.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IHoraDisponibleController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Controllers\\Interfaces\\IHoraDisponibleController.cs",
+              "RelativeDocumentMoniker": "Web\\Controllers\\Interfaces\\IHoraDisponibleController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Web\\Controllers\\Interfaces\\IHoraDisponibleController.cs",
+              "RelativeToolTip": "Web\\Controllers\\Interfaces\\IHoraDisponibleController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T17:34:20.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CitaBusiness.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Business\\Implement\\CitaBusiness.cs",
+              "RelativeDocumentMoniker": "Business\\Implement\\CitaBusiness.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\PQR_AgendamientoDeCitas\\backend\\Business\\Implement\\CitaBusiness.cs",
+              "RelativeToolTip": "Business\\Implement\\CitaBusiness.cs",
+              "ViewState": "AgIAAGgBAAAAAAAAAAAcwKABAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-19T16:29:25.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
